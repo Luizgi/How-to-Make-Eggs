@@ -30,6 +30,11 @@ header, footer {
   padding: 20px;
 }
 
+img{
+  width: 30%;
+  height: 30%;
+}
+
 .recipe {
   background-color: white;
   margin: 15px;
